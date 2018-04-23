@@ -1,0 +1,14 @@
+.card_image
+{
+    background: black;
+    background-position: top;
+    background-size: cover;
+    height: 200px;
+
+    
+}
+
+.single_card
+{
+    display: inline-block;
+}
