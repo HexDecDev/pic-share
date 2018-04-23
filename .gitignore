@@ -1,0 +1,15 @@
+#Ignoring node-modules
+picture-share/node_modules/
+picture-share-server/node_modules/
+
+#Ignoring server stuff
+picture-share-server/files/
+picture-share-server/build/
+picture-share-server/pics/
+picture-share-server/pics/general/
+
+#Ignoring client stuff
+picture-share/build/
+picture-share/semantic/
+
+.DS_Store
